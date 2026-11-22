@@ -1,1 +1,1 @@
-{"build":43,"code":43,"name":"1.0.43","notes":"Rede de protecao: erro de React mostra tela com saida em vez de tela branca","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-43/MunizCloud.apk"}
+{"build":44,"code":44,"name":"1.0.44","notes":"Checagem de hooks no build: pega efeito depois de return, que causou a tela branca","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-44/MunizCloud.apk"}
