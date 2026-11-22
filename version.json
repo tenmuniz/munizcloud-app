@@ -1,1 +1,1 @@
-{"build":41,"code":41,"name":"1.0.41","notes":"Barra de selecao reta, mover pasta avisa o que nao deu, prazo ao abrir o drive e aviso quando o indice nao salva","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-41/MunizCloud.apk"}
+{"build":42,"code":42,"name":"1.0.42","notes":"Corrige tela branca depois da biometria: o prazo de abertura era um hook depois do return do bloqueio","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-42/MunizCloud.apk"}
