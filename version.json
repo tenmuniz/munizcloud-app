@@ -1,1 +1,1 @@
-{"build":44,"code":44,"name":"1.0.44","notes":"Checagem de hooks no build: pega efeito depois de return, que causou a tela branca","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-44/MunizCloud.apk"}
+{"build":45,"code":45,"name":"1.0.45","notes":"Atualizacao: baixa o APK no lado nativo e abre o instalador (window.open nao abria)","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-45/MunizCloud.apk"}
