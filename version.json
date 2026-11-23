@@ -1,1 +1,1 @@
-{"build":46,"code":46,"name":"1.0.46","notes":"Importacao de nuvem: pula o que ja esta no drive, atalho para abrir no PC e guia com os limites do Telegram","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-46/MunizCloud.apk"}
+{"build":47,"code":47,"name":"1.0.47","notes":"Importar do Google Drive pela API: le a nuvem e manda pro Telegram sem usar o disco","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-47/MunizCloud.apk"}
