@@ -1,1 +1,1 @@
-{"build":47,"code":47,"name":"1.0.47","notes":"Importar do Google Drive pela API: le a nuvem e manda pro Telegram sem usar o disco","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-47/MunizCloud.apk"}
+{"build":49,"code":49,"name":"1.0.49","notes":"Importar da nuvem pela ponte do rclone: sem Google Cloud, sem disco, com gdrive e pcloud ja configurados","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-49/MunizCloud.apk"}
