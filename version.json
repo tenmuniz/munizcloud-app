@@ -1,1 +1,1 @@
-{"build":50,"code":50,"name":"1.0.50","notes":"Ponte tambem nos downloads: o Telegram nao libera CORS no navegador","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-50/MunizCloud.apk"}
+{"build":51,"code":51,"name":"1.0.51","notes":"Importacao mais rapida: faixa pelo rclone serve http e busca do proximo pedaco durante o envio","apk":"https://github.com/tenmuniz/munizcloud-app/releases/download/build-51/MunizCloud.apk"}
